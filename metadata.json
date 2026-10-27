@@ -1,0 +1,6 @@
+{
+  "name": "Student SpendSense",
+  "description": "Smart Student Expense & Pocket Money Manager featuring real-time financial tracking, budget alerts, and the signature Pocket Money Survival Predictor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
